@@ -1,0 +1,4 @@
+requests
+faker
+jinja2
+pytest
