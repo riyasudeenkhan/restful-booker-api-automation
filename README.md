@@ -18,11 +18,4 @@ This project is a lightweight Python automation framework built using PyTest for
 ---
 
 ## 🧱 Folder Structure
-restful-booker-api-automation/
-├── tests/ # All test cases
-├── utils/ # Reusable utility modules
-├── test_data/ # Test data generation
-├── booking.log # Log file (auto-generated)
-├── report.html # HTML report (auto-generated)
-├── requirements.txt
-├── README.md
+<pre> <code> 📂 restful-booker-api-automation/ ├── tests/ # All test cases ├── utils/ # Reusable utility modules ├── test_data/ # Test data generation ├── booking.log # Log file (auto-generated) ├── report.html # HTML report (auto-generated) ├── requirements.txt └── README.md </code> </pre>
