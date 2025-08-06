@@ -48,12 +48,6 @@ pip install -r requirements.txt
 pytest tests/
 ```
 
-Or to generate an HTML report:
-
-```bash
-pytest tests/ --html=report.html --self-contained-html
-```
-
 ---
 
 ## 📄 Notes
@@ -72,11 +66,5 @@ pytest tests/ --html=report.html --self-contained-html
 - `pytest-html` *(for HTML reporting)*
 
 All dependencies are listed in `requirements.txt`.
-
----
-
-## 📧 Contact
-
-For any questions, suggestions, or improvements, feel free to raise an issue in this repository or contact me via GitHub.
 
 ---
